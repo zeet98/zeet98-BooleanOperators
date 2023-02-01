@@ -4,10 +4,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class ExpressionsTest {
-    static Expressions e;
+    static Lab e;
     @BeforeClass
     public static void setUp(){
-        e = new Expressions();
+        e = new Lab();
     }
 
     /**
